@@ -1,141 +1,70 @@
-html{
-
+html {
 	margin: 0;
-
 	padding: 0;
-
-	-ms-text-size-adjust: 100%;
-
 	-webkit-text-size-adjust: 100%;
-
 }
 
-
-
-body{
-
+body {
 	margin: 0;
-
 	padding: 0;
-
 }
 
-
-
-a{
-
+a {
 	outline: 0;
-
 }
 
-
-
-blockquote{
-
+blockquote {
 	margin: 0;
-
 	quotes: none;
-
 }
 
-
-
-p{
-
+p {
 	margin: 0;
-
 }
 
-
-
-ol{
-
+ol {
 	margin: 0;
-
 	padding: 0;
-
 }
 
-
-
-ul{
-
+ul {
 	margin: 0;
-
 	padding: 0;
-
 }
 
-
-
-h1{
-
+h1 {
 	margin: 0;
-
 }
 
-
-
-h2{
-
+h2 {
 	margin: 0;
-
 }
 
-
-
-h3{
-
+h3 {
 	margin: 0;
-
 }
 
-
-
-h4{
-
+h4 {
 	margin: 0;
-
 }
 
-
-
-h5{
-
+h5 {
 	margin: 0;
-
 }
 
-
-
-h6{
-
+h6 {
 	margin: 0;
-
 }
-
-
 
 table {
-
 	border-collapse: collapse;
-
 	border-spacing: 0;
-
 }
 
-
-
-q{
-
+q {
 	quotes: none;
-
 }
 
-
-
-figure{
-
+figure {
 	margin: 0;
-
 }
